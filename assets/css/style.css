@@ -1098,7 +1098,7 @@ p:last-child {
 	z-index: 1;
 	height: 800px;
 	background: -webkit-gradient(linear, left top, left bottom, from(#370b6f), color-stop(#00429b), color-stop(#006dba), color-stop(#0095ce), to(#2dbcdc));
-	background: linear-gradient(to bottom, #370b6f, #00429b, #006dba, #0095ce, #2dbcdc);
+	background: linear-gradient(to bottom, #233F61, #233F61, #233F61, #233F61, #233F61);
 }
 
 .main-banner-content h1 {
