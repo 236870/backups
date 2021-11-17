@@ -4045,7 +4045,7 @@ blockquote::after, .blockquote::after {
 .footer-subscribe-wrapper {
 	position: relative;
 	z-index: 1;
-	background-color: #1c1c23;
+	background-color: #ffffff;
 }
 
 .footer-heading {
