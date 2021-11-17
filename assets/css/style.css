@@ -4196,7 +4196,7 @@ blockquote::after, .blockquote::after {
  ** - 29 - Page Copyright Section CSS
  ******************************************/
 .copyright-area {
-	background-color: #212129;
+	background-color: #D3D3D3;
 	padding: 35px 0;
 }
 
