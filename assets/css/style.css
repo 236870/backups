@@ -3177,7 +3177,9 @@ p:last-child {
 	-webkit-box-flex: 0;
 	flex: 0 0 50%;
 	max-width: 50%;
-	color: #5f5f5f;
+	color: #D3D3D3;
+	/*color: #5f5f5f;*/
+	
 }
 
 .blog-details-desc .article-footer .article-tags span {
