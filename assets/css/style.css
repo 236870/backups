@@ -150,7 +150,7 @@ p:last-child {
 	text-align: center;
 	overflow: hidden;
 	z-index: 1;
-	color: #ffffff;
+	color: #3e57d0;
 	background-color: #3e57d0;
 	-webkit-transition: 0.4s;
 	transition: 0.4s;
@@ -195,7 +195,7 @@ p:last-child {
 	text-align: center;
 	overflow: hidden;
 	z-index: 1;
-	color: #7b68ee;
+	color: #ffffff;
 	background-color: #ffffff;
 	-webkit-transition: 0.4s;
 	transition: 0.4s;
