@@ -180,7 +180,7 @@ p:last-child {
 }
 
 .default-btn:hover, .default-btn:focus {
-	color: #ffffff;
+	color: #00CED1;
 }
 
 .default-btn:hover span, .default-btn:focus span {
